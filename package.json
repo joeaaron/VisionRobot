@@ -5,8 +5,8 @@
   "author": "Z",
   "private": false,
   "scripts": {
-    "content:dev": "vuepress dev content",
-    "content:build": "vuepress build content"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "moment": "^2.24.0",
