@@ -1,0 +1,21 @@
+{
+  "name": "VisionRobot 架构师笔记",
+  "short_name": "VisionRobot 架构师笔记",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "笔记定位：架构师相关技术笔记",
+  "icons": [
+    {
+      "src": "192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "mlogo.svg",
+      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
