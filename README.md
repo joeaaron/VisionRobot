@@ -17,6 +17,9 @@
 
 ## 运行方式
 
+- 安装需要的包：
+
+  npm install
 - 写作预览：
 
   yarn docs:dev

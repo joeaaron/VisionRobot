@@ -10,7 +10,7 @@ module.exports = {
   // ~ 站点配置
   title: 'VisionRobot 架构师笔记',
   description: '用来记录架构师相关成套的知识',
-  base: '/vision-robot/', // gh-page 中是增加了项目名
+  base: '/VisionRobot/', // gh-page 中是增加了项目名
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
