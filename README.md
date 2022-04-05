@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zq99299/repository-summary" target="_blank">
-     <img width="200" src="./docs/.vuepress/public/mlogo.svg" alt="logo">
+     <img width="200" src="./content/.vuepress/public/mlogo.svg" alt="logo">
   </a>
   <br/>
   <br/>
@@ -9,17 +9,17 @@
   </a>
 </p>
 
-# note-architect
+# vision-robot
 
 笔记定位：架构师相关课程
 
-[在线阅读](https://zq99299.github.io/note-architect/)
+[在线阅读](https://joeaaron.github.io/VisionRobot/)
 
 ## 运行方式
 
 - 写作预览：
 
-  yarn docs:dev
+  yarn content:dev
 - 打包发布：
 
-  yarn docs:build
+  yarn content:build
