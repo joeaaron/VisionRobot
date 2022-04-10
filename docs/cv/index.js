@@ -16,7 +16,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '02丨演进篇-数据库',
+      title: '02丨演进篇-2D',
       collapsable: true,
       children: [
         '02/',
@@ -28,7 +28,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '03丨演进篇-缓存',
+      title: '03丨演进篇-3D',
       collapsable: true,
       children: [
         '03/',
@@ -41,7 +41,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '04丨演进篇-消息队列',
+      title: '04丨演进篇-DL',
       collapsable: true,
       children: [
         '04/',
@@ -53,7 +53,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '05丨演进篇-分布式服务',
+      title: '05丨演进篇-VSLAM',
       collapsable: true,
       children: [
         '05/',
@@ -69,7 +69,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '06丨演进篇-维护',
+      title: '06丨演进篇-源码解析',
       collapsable: true,
       children: [
         '06/',
